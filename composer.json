@@ -1,0 +1,12 @@
+{
+    "name": "asyrovatkin/study-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Asyrovatkin\\StudyPackage\\": "src/"
+        }
+    },
+    "require": {
+	    "php": ">=8.2"
+    }
+}
